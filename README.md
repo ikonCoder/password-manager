@@ -3,5 +3,5 @@ So naturally, I built one.
 Enjoy :)
 
 NOTE:
-* As of now, the credentials are being held in PostgreSQL. 
+* As of now, the queries and db synatx is made for PostgreSQL. 
 * This was built on a Mac and only tested in that environment.
